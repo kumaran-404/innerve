@@ -11,6 +11,8 @@ from itertools import combinations
 import urllib
 import joblib
 
+// contribution by kumaran
+
 class HandLandmarks(Enum):
     WRIST = 0
     THUMB_CMC = 1
